@@ -1,0 +1,12 @@
+[Tue Oct 15 00:54:34.724859 2024] [mpm_event:notice] [pid 1096:tid 4498679296] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Oct 15 00:54:34.725738 2024] [core:notice] [pid 1096:tid 4498679296] AH00094: Command line: '/Users/mac/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/mac/Library/Application Support/Local/run/D60lyRhip/conf/apache/apache2.conf'
+[Tue Oct 15 02:29:18.922265 2024] [mpm_event:notice] [pid 1096:tid 4498679296] AH00491: caught SIGTERM, shutting down
+AH00557: httpd: apr_sockaddr_info_get() failed for Macs-MacBook-Pro.local
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 17 09:54:47.915929 2024] [mpm_event:notice] [pid 1207:tid 4459943424] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Oct 17 09:54:47.916435 2024] [core:notice] [pid 1207:tid 4459943424] AH00094: Command line: '/Users/mac/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/mac/Library/Application Support/Local/run/D60lyRhip/conf/apache/apache2.conf'
+[Thu Oct 17 10:15:39.681451 2024] [mpm_event:notice] [pid 1207:tid 4459943424] AH00491: caught SIGTERM, shutting down
+AH00557: httpd: apr_sockaddr_info_get() failed for Macs-MacBook-Pro.local
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 17 23:22:56.112494 2024] [mpm_event:notice] [pid 840:tid 4587337216] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Oct 17 23:22:56.112959 2024] [core:notice] [pid 840:tid 4587337216] AH00094: Command line: '/Users/mac/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/mac/Library/Application Support/Local/run/D60lyRhip/conf/apache/apache2.conf'

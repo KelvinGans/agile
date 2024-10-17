@@ -1,0 +1,2 @@
+<br>
+<b>Deprecated</b>:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in <b>/Users/mac/Local Sites/agilese1012024133009/app/public/wp-includes/class-requests.php</b> on line <b>21</b><br>
